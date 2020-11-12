@@ -74,3 +74,37 @@ fab-options li{
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
   margin-right: 10px;
 }
+#logoSection{
+  padding:1% 7%;
+  padding-bottom: 0;
+  margin-bottom: 2px;
+}
+@media (max-width: 1000px) {
+  #logo{
+    width:100% !important;
+  }
+
+}
+#logo{
+  width:50%;
+}
+@media (max-width: 700px){
+  #emailbtnn{
+    font-size:.6rem !important;
+  }
+  #bookkeep{
+width: 300px;
+  }
+#pyroll{
+  width: 300px !important;
+}
+#manage{
+    width: 300px !important;
+}
+#tax{
+      width: 300px !important;
+}
+#topemail{
+  margin-top: 0 !important;
+}
+}
